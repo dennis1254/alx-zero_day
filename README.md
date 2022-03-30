@@ -1,2 +1,2 @@
 My first readme
-Dennis Owhiroro
+Dennis Owhiroro.
